@@ -18,6 +18,9 @@ body{
     flex-direction: row-reverse;
 }
 
+.iconColor {
+    color: #9933CC!important;
+  }
 
 .gap{
     padding-bottom: 60px;
